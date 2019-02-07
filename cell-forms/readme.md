@@ -8,7 +8,7 @@
 4. No magic; introspectable
 5. Notebook files are source of truth; templates are expectecd to change over time and we need an answer to that problem
 
-<!---- Insert UI example image here -->
+![UI Example](./images/IMG_8312.JPG)
 
 ```
 pip install jupyter-cell-form-dbconn
